@@ -1,10 +1,13 @@
 class Human:
-    sleeping=10
-    def __init__(self,name):
-        self.name=name
-    @staticmethod
-    def sleep():
-        print("dawkdkakwd",Human.sleeping,"8")
-Human.sleep()
 
-         
+   def __init__(self):
+      print("ii")
+
+   def __init__(self):
+      print("fii")
+
+   def __init__(self):
+      print("hii")
+person=Human()
+print(person)
+

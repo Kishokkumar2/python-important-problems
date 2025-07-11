@@ -7,7 +7,7 @@ class Company:
         
 
 
-    # class method i sused to update class variable
+    # class method is sused to update class variable
     @classmethod
     def change_company_name(cls,new_name):
         cls.Company_name=new_name
